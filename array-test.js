@@ -79,4 +79,9 @@ var op = ops.pop();
 */
 
 
-var math = 9/3;
+var nums = [5, 3, 2];
+
+for(var i=0; i<nums.length; i++) {
+  document.write(nums[i]);
+  console.log(nums[i]);
+}
